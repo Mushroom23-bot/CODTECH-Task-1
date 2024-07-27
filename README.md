@@ -1,8 +1,13 @@
 **Name**: Hritik Singh Tomar
+
 **Company**:CODTECH IT SOLUTIONS
+
 **ID**: 
+
 **Domain**: Digital Marketing
+
 **Duration** : 10June to 22July
+
 **Mentor** : G.SRAVANI
 
 
