@@ -6,7 +6,7 @@
 
 **Domain**: Digital Marketing
 
-**Duration** : 10June to 22July
+**Duration** : 15June to 31July
 
 **Mentor** : G.SRAVANI
 
